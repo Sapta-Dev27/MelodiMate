@@ -1,0 +1,76 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.music {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.music-1{
+    height: 450px;
+    width:75%;
+}
+.music-2{
+    height: 450px;
+    width:75%;
+}
+.music-3{
+    height: 450px;
+    width:75%;
+}
+.music-4{
+    height: 450px;
+    width:75%;
+}
+.music-5{
+    height: 450px;
+    width:75%;
+}
+.music-6{
+    height: 450px;
+    width:75%;
+}
+.music-7{
+    height: 450px;
+    width:75%;
+}
+.music-8{
+    height: 450px;
+    width:75%;
+}
+.music-9{
+    height: 450px;
+    width:75%;
+}
+.music-1 audio{
+    width: 90%;
+}
+.music-2 audio{
+    width: 90%;
+}
+.music-3 audio{
+    width: 90%;
+}
+.music-4 audio{
+    width: 90%;
+}
+.music-5 audio{
+    width: 90%;
+}
+.music-6 audio{
+    width: 90%;
+}
+.music-7 audio{
+    width: 90%;
+}
+.music-8 audio{
+    width: 90%;
+}
+.music-9 audio{
+    width: 90%;
+}

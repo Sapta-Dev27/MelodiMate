@@ -1,0 +1,309 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background: rgba(0, 0, 0, 0.800);
+    height:100%;
+    width:100%;
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 5px;
+}
+.navbar-logo h1{
+     font-family: Poppins;
+     font-weight: 600;
+     color: crimson;
+     font-size: 3rem;
+}
+.navbar-logo span{
+     font-family: Poppins;
+     font-weight: 300;
+     color: whitesmoke;
+     font-size: 3rem;
+}
+.music{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.music-1{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px -5px 5px black;
+}
+.music-1 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-1 audio{
+    margin-top: 10px;
+}
+.music-1 h1{
+    font-size: 2.2rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-1 h3{
+    font-size: 1.5rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-2{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px -5px 3px black;
+}
+.music-2 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-2 h1{
+    font-size: 2.2rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-2 h3{
+    font-size: 1.5rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-3{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px -5px 3px black;
+}
+.music-3 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-3 h1{
+    font-size: 2.2rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-3 h3{
+    font-size: 1.5rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-4{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px 5px 3px black;
+}
+.music-4 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-4 h1{
+    font-size: 2.2rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-4 h3{
+    font-size: 1.5rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-5{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px 5px 3px black;
+}
+.music-5 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-5 h1{
+    font-size: 2.2rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-5 h3{
+    font-size: 1.5rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-6{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px 5px 3px black;
+}
+.music-6 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-6 h1{
+    font-size: 2.2rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-6 h3{
+    font-size: 1.5rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-7{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px 5px 3px black;
+}
+.music-7 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-7 h1{
+    font-size: 2.2rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-7 h3{
+    font-size: 1.5rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-8{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px 5px 3px black;
+}
+.music-8 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-8 h1{
+    font-size: 1.8rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-8 h3{
+    font-size: 1.2rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-9{
+    height: 425px;
+    width: 25%;
+    background-color:rgba(0, 0, 0, 0.300);
+    border-radius: 30px;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    box-shadow: 5px 5px 3px black;
+}
+.music-9 img{
+    border-radius:20px;
+    margin-top: 25px;
+    filter: brightness(1.75);
+    object-fit: cover;
+}
+.music-9 h1{
+    font-size: 2.2rem;
+    font-family: Poppins;
+    font-weight: 600;
+    color: crimson;
+}
+.music-9 h3{
+    font-size: 1.5rem;
+    font-family: Poppins;
+    font-weight: 300;
+    color: whitesmoke;
+}
+.music-1 audio {
+    margin-top: 20px;
+}
+.music-2 audio {
+    margin-top: 20px;
+}
+.music-3 audio {
+    margin-top: 20px;
+}
+.music-4 audio {
+    margin-top: 20px;
+}
+.music-5 audio {
+    margin-top: 20px;
+}
+.music-6 audio {
+    margin-top: 20px;
+}
+.music-7 audio {
+    margin-top: 20px;
+}
+.music-8 audio {
+    margin-top: 20px;
+}
+.music-9 audio {
+    margin-top: 20px;
+}
